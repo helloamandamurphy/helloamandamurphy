@@ -1,4 +1,6 @@
-### Hi there 👋
+### Amanda Murphy
+
+Amanda is a software engineer, mom, and United States Marine Corps veteran spouse. Prior to making a career transition in 2018, she studied creative writing and acting, worked as a server in several restaurants, and managed housekeeping. Amanda was the recipient of the "Women Take Tech" scholarship and earned a certification in software engineering from Flatiron School. She went on to complete the Amazon Web Services (AWS) Military Software Development Engineering Apprenticeship in November 2021. Amanda is an awarded, published, and produced poet and playwright. She continues to write and aspires to join the Saturday Night Live cast.
 
 <!--
 **helloamandamurphy/helloamandamurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
