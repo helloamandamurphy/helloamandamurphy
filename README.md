@@ -1,6 +1,12 @@
-### Amanda Murphy
+### Amanda C. Murphy
 
-Amanda is a software engineer, mom, and United States Marine Corps veteran spouse. Prior to making a career transition in 2018, she studied creative writing and acting, worked as a server in several restaurants, and managed housekeeping. Amanda was the recipient of the "Women Take Tech" scholarship and earned a certification in software engineering from Flatiron School. She went on to complete the Amazon Web Services (AWS) Military Software Development Engineering Apprenticeship in November 2021. Amanda is an awarded, published, and produced poet and playwright. She continues to write and aspires to join the Saturday Night Live cast.
+Amanda is a software engineer specializing in AI agent infrastructure, currently building production agent platforms for drug discovery at Eli Lilly as a Principal Engineer.
+
+She transitioned into software engineering in 2018 after earning the “Women Take Tech” scholarship and completing Flatiron School’s software engineering program. She joined Amazon Web Services through the Military Software Development Engineering Apprenticeship, then worked at agriculture-tech startup AppHarvest before joining Eli Lilly in 2022.
+
+At Lilly, Amanda architects agent provisioning systems, tool server infrastructure (gRPC, MCP), and integration testing frameworks for AI agents. Her work includes building YAML-based configuration systems, implementing Model Context Protocol servers, and collaborating with drug discovery scientists to translate complex workflows into agent-accessible tools. She’s contributed to modernizing computational chemistry platforms and building APIs that power Lilly’s first production drug discovery AI agent.
+
+Prior to tech, Amanda studied creative writing and theater; she is an awarded, published, and produced poet and playwright. Amanda continues to write, enjoys gardening and a good bubble tea, and is a United States Marine Corps veteran spouse. 
 
 <!--
 **helloamandamurphy/helloamandamurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
